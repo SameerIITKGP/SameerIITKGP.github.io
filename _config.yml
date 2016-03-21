@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title: My NoteBook
+locale: en_US
+url: http://sameeriitkgp.github.io
 
 
 # Jekyll configuration
@@ -41,23 +41,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Sameer Chaudhari
+  avatar: sam.png
+  bio: "Coder. Thinker. Life Enthusiast."
+  email: sameer1834@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: sameer.chaudhari.3958
   google:
-    plus: #username
+    plus: sameerchaudhariiitkgp
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: SameerIITKGP
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: sameer-chaudhari-5a3b0a7a
   xing: #username
   instagram: #username
   lastfm: #username
