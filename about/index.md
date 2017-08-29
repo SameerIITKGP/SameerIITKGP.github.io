@@ -8,7 +8,7 @@ image:
   feature: kgp.jpg
 ---
 
-I am a Third year Undergraduate of the Department of Electronics and Electrical Communication Engineering, IIT Kharagpur.<br>
+I am a Final year Undergraduate of the Department of Electronics and Electrical Communication Engineering, IIT Kharagpur.<br>
 I am passionate about software development and open-source.<br>
 I am very much interested in the latest Technology, specially on the IOT front.<br>
 I'm also enthusiastic about Machine Learning and Data Analysis.<br>
