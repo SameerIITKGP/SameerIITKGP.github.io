@@ -8,8 +8,7 @@ image:
   feature: kgp.jpg
 ---
 
-Caffine addict; Fitness Enthusiast; Introvert
-
+Caffine addict; Fitness Enthusiast; Introvert<br>
 Final year Undergraduate of the Department of Electronics and Electrical Communication Engineering, IIT Kharagpur.<br>
 Passionate about software development and open-source.<br>
 Very interested in the latest Technology, specially on the IOT front.<br>
