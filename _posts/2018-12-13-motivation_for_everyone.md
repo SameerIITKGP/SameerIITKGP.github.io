@@ -12,7 +12,7 @@ date: 2018-10-31T18:45:27+05:30
 
 To the hypocrite within me and you,
 ### "If you don't walk the walk, It's probably best not to talk the talk."
-My first blog post came in August, 2017. Ironically, it focussed on the importance of regular blogging! I was moved by this quote and decided to end this cycle of hypocracy. So here I am :)<br><br>
+My first blog post came in August, 2017. Ironically, it focussed on the importance of regular blogging! I was moved by this quote and decided to end this cycle of hypocricy. So here I am :)<br><br>
 The problem with quotes is they give you a blast of motivation, but it is really short lived. Only motivation won't take you anywhere. It's when the motivation turns into a Habit, you start to blossom.<br>
 That's when you learn the Art of Self-motivation.<br><br>
 This post accomodates numerous quotes and short stories, for when I feel low or I need a boost for some mammoth task. I'll try my best to keep adding more and more ...<br>
