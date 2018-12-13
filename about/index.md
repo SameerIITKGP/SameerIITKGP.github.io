@@ -2,14 +2,16 @@
 layout: page
 title: About Me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2018-12-13
 comments: true
 image:
   feature: dragon.jpg
 ---
-
+<br>
+`Life can only be understood backwards, but it must be lived forwards.`
+<br><br>
 Chai addict; Fitness Enthusiast; Ambivert<br>
-System Engineer @ Hewlett Packard Enterprise, Bangalore<br>
+Systems Engineer @ Hewlett Packard Enterprise, Bangalore<br>
 2018 Graduate of the Department of Electronics and Electrical Communication Engineering, IIT Kharagpur.<br>
 Passionate about software development and open-source.<br>
 Very interested in the latest Technology, specially on the IOT front.<br>
