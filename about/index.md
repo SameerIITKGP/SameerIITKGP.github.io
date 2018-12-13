@@ -7,9 +7,9 @@ comments: true
 image:
   feature: dragon.jpg
 ---
+
+#### Life can only be understood backwards, but it must be lived forwards.
 <br>
-`Life can only be understood backwards, but it must be lived forwards.`
-<br><br>
 Chai addict; Fitness Enthusiast; Ambivert<br>
 Systems Engineer @ Hewlett Packard Enterprise, Bangalore<br>
 2018 Graduate of the Department of Electronics and Electrical Communication Engineering, IIT Kharagpur.<br>
