@@ -17,50 +17,52 @@ The problem with quotes is they give you a blast of motivation, but it is really
 That's when you learn the Art of Self-motivation.<br><br>
 This post accomodates numerous quotes and short stories, for when I feel low or I need a boost for some mammoth task. I'll try my best to keep adding more and more ...<br>
 Don't let it stop from helping you too! :)<br><br>
-### "Look fear in the face and it will cease to trouble you."
-<!-- <br><br> -->
-### "To live and let live, without clamor for distinction or recognition; to write truth first on the tablet of one's own heart - this is the sanity and perfection of living."
-<!-- <br><br> -->
-### Within all of us there is a battle of two wolves. One is evil. He is anger, envy, jealousy, sorrow, regret, greed, arrogance, self-pity, guilt, resentment, inferiority, lies, false pride, superiority, and ego. The other is good. He is joy, peace, love, hope, serenity, humility, kindness, benevolence, empathy, generosity, truth, compassion, and faith. "The one you feed grows stronger!"
-<!-- <br><br> -->
-### "Quitting smoking can be a very good test of ones character. Pass the test and you will have accomplished so much more than just get rid of one bad habit."
-<!-- <br><br> -->
-### "Either you run the day, or the day runs you."
-<!-- <br><br> -->
-### "Two things define you: Your patience when you have nothing and your attitude when you have everything."
-<!-- <br><br> -->
-### [Mariah Carey - Hero: One of my all time favourite songs :)](https://www.youtube.com/watch?v=0IA3ZvCkRkQ)
-Update :)<br><br>
-<strong>
+<font size="4">
+"Look fear in the face and it will cease to trouble you."
+<br><br></font>
+<font size="4">
+"To live and let live, without clamor for distinction or recognition,<br>
+to write truth first on the tablet of one's own heart<br>
+This is the sanity and perfection of living."
+<br><br></font>
+<font size="4">
+Within all of us there is a battle of two wolves.<br>
+One is evil. He is anger, envy, jealousy, sorrow, regret, greed, arrogance, self-pity, guilt, resentment, inferiority, lies, false pride, superiority, and ego.<br>
+The other is good. He is joy, peace, love, hope, serenity, humility, kindness, benevolence, empathy, generosity, truth, compassion, and faith.<br>
+"The one you feed grows stronger!"
+<br><br></font>
+<font size="4">
+"Either you run the day, or the day runs you."
+<br><br></font>
+<font size="4">
+"Two things define you: Your patience when you have nothing,<br>
+and your attitude when you have everything."
+<br><br></font>
+
+#### [Mariah Carey - Hero: One of my all time favourite songs :)](https://www.youtube.com/watch?v=0IA3ZvCkRkQ)
+
+##### Update :)
+
 <font size="4">
 Waqt ki qaid mein zindagi hai magar<br>
-Chand ghadiyan yehi hain jo aazad hain<br><br>
-</font>
-</strong>
-<strong>
+Chand ghadiyan yehi hain jo aazad hain
+<br><br></font>
 <font size="4">
 Apna zamana aap banate hain ahl-e-dil<br>
-Hum vo nahin ki jin ko zamana bana gaya<br><br>
-</font>
-</strong>
-<strong>
+Hum vo nahin ki jin ko zamana bana gaya
+<br><br></font>
 <font size="4">
 Abhi se paanv ke chhaale na dekho<br>
-abhi yaaro safar ki ibtida hai<br><br>
-</font>
-</strong>
-<strong>
+abhi yaaro safar ki ibtida hai
+<br><br></font>
 <font size="4">
 Saahil ke sukoon se kise inkaar hai lekin<br>
-Toofaan se ladne mein maza hi kuch aur hai<br><br>
-</font>
-</strong>
-<strong>
+Toofaan se ladne mein maza hi kuch aur hai
+<br><br></font>
 <font size="4">
 Har roz gir kar bhi, mukammmal khade hain<br>
-Ae zindagi dekh, mere honsle tujhse bhi bade hain<br><br>
-</font>
-</strong>
+Ae zindagi dekh, mere honsle tujhse bhi bade hain
+<br><br></font>
 <br>
 Love and Regards,<br>
 Sameer
