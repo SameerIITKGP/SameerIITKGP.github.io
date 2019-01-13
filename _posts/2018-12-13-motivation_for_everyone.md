@@ -31,15 +31,26 @@ Don't let it stop from helping you too! :)<br><br>
 <!-- <br><br> -->
 ### [Mariah Carey - Hero: One of my all time favourite songs :)](https://www.youtube.com/watch?v=0IA3ZvCkRkQ)
 Update:<br><br>
-### "Waqt ki qaid mein zindagi hai magar, Chand ghadiyan yehi hain jo aazad hain"
-
-### "Apna zamana aap banate hain ahl-e-dil, Hum vo nahin ki jin ko zamana bana gaya"
-
-### "Abhi se paanv ke chhaale na dekho, abhi yaaro safar ki ibtida hai"
-
-### "Saahil ke sukoon se kise inkaar hai lekin, Toofaan se ladne mein maza hi kuch aur hai"
-
-### "Har roz gir kar bhi, mukammmal khade hain; Ae zindagi dekh, mere honsle tujhse bhi bade hain"
+<font size="6">
+Waqt ki qaid mein zindagi hai magar<br>
+Chand ghadiyan yehi hain jo aazad hain
+</font>
+<font size="6">
+Apna zamana aap banate hain ahl-e-dil<br>
+Hum vo nahin ki jin ko zamana bana gaya
+</font>
+<font size="6">
+Abhi se paanv ke chhaale na dekho<br>
+abhi yaaro safar ki ibtida hai
+</font>
+<font size="6">
+Saahil ke sukoon se kise inkaar hai lekin<br>
+Toofaan se ladne mein maza hi kuch aur hai
+</font>
+<font size="6">
+Har roz gir kar bhi, mukammmal khade hain<br>
+Ae zindagi dekh, mere honsle tujhse bhi bade hain
+</font>
 <br>
 Love and Regards,<br>
 Sameer
