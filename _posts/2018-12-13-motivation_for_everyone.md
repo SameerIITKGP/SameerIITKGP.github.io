@@ -30,24 +30,24 @@ Don't let it stop from helping you too! :)<br><br>
 ### "Two things define you: Your patience when you have nothing and your attitude when you have everything."
 <!-- <br><br> -->
 ### [Mariah Carey - Hero: One of my all time favourite songs :)](https://www.youtube.com/watch?v=0IA3ZvCkRkQ)
-Update:<br><br>
-<font size="3">
+Update :)<br><br>
+<font size="4">
 Waqt ki qaid mein zindagi hai magar<br>
 Chand ghadiyan yehi hain jo aazad hain<br><br>
 </font>
-<font size="3">
+<font size="4">
 Apna zamana aap banate hain ahl-e-dil<br>
 Hum vo nahin ki jin ko zamana bana gaya<br><br>
 </font>
-<font size="3">
+<font size="4">
 Abhi se paanv ke chhaale na dekho<br>
 abhi yaaro safar ki ibtida hai<br><br>
 </font>
-<font size="3">
+<font size="4">
 Saahil ke sukoon se kise inkaar hai lekin<br>
 Toofaan se ladne mein maza hi kuch aur hai<br><br>
 </font>
-<font size="3">
+<font size="4">
 Har roz gir kar bhi, mukammmal khade hain<br>
 Ae zindagi dekh, mere honsle tujhse bhi bade hain<br><br>
 </font>
