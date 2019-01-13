@@ -27,8 +27,7 @@ This is the sanity and perfection of living."
 <br><br></font>
 <font size="5" color="#000000">
 Within all of us there is a battle of two wolves.<br>
-One is evil. He is anger, envy, jealousy, sorrow, regret, greed, arrogance, self-pity, guilt, resentment, inferiority, lies, false pride, superiority, and ego.<br>
-The other is good. He is joy, peace, love, hope, serenity, humility, kindness, benevolence, empathy, generosity, truth, compassion, and faith.<br>
+One is evil. He is anger, envy, jealousy, sorrow, regret, greed, arrogance, self-pity, guilt, resentment, inferiority, lies, false pride, superiority, and ego. The other is good. He is joy, peace, love, hope, serenity, humility, kindness, benevolence, empathy, generosity, truth, compassion, and faith.<br>
 "The one you feed grows stronger!"
 <br><br></font>
 <font size="5" color="#000000">
